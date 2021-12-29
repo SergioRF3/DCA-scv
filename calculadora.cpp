@@ -27,7 +27,7 @@ int main(){
             resultado = primero * segundo;
         break;
         case '/':
-            resultado = segundo / primero;
+            resultado = primero / segundo;
         break;
     }
 
